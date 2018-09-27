@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue chez nous
 
 You can use the [editor on GitHub](https://github.com/98Math/DemoRT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
